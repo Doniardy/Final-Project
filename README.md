@@ -1,9 +1,9 @@
-# Final Project – Simple Interest Calculator
+# Final Project
 
-This project is a simple shell script to calculate simple interest.
+This project demonstrates the use of GitHub UI and Git CLI for repository management, collaboration, and scripting.
 
-## How to Run
-
-```bash
-chmod +x simple-interest.sh
-./simple-interest.sh
+## Contents
+- LICENSE
+- simple-interest.sh
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
